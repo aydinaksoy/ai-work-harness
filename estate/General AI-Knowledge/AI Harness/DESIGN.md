@@ -6,6 +6,11 @@ scaffold helper, linked Work Map, or general knowledge/workflow indexes. The
 entry contract also has additional retrieval/tooling routes. No SVG was edited;
 the constitution describes the current behavior.
 
+**Further diagram currency (#311):** the sheets also omit the warning-only
+work-map observer that runs as a separate second `sessionStart` command, the
+distinction between mechanical hooks and parent-invoked agents, and the optional
+model-profile guidance, all described in the Harness Guide. They count seven loader
+rules; `AGENTS.md` now carries ten. No SVG was edited; this note names the lag.
 **Diagram currency (2026-07-29):** the operator redrew both sheets to REV S /
 REV H, which cleared three of the four divergences this note used to carry. TWO
 remain, and the second is newly true rather than newly noticed.
